@@ -15,7 +15,7 @@ Interface simples e intuitiva
 Ferramentas: Git para controle de versão
 
 ## 💻 Como Rodar o Projeto
-Basta abrir o arquivo index.html diretamente em seu navegador. Não há necessidade de instalar dependências ou usar comandos de terminal para rodar a aplicação localmente.
+Basta seguir o link para website https://challenge-amigo-secreto-aluralatam.vercel.app/.
 
 ## 🤝 Contribuição
 Contribuições são sempre bem-vindas! Se você tiver sugestões, por favor, siga os passos abaixo:
