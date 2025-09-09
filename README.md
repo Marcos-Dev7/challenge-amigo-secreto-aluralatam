@@ -8,9 +8,9 @@ Interface simples e intuitiva
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ``Javascrypt``
-- ``Html5``
-- ``Css3``
+- ``JavaScript``
+- ``HTML5``
+- ``CSS3``
 
 Ferramentas: Git para controle de versão
 
